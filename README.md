@@ -1,5 +1,5 @@
-- ##👋 Hi, I’m Marco
-- ##📫 Please feel free to email me at marcocatanzariti@gmail.com for work/collabs
+- 👋 Hi, I’m Marco
+- 📫 Please feel free to email me at marcocatanzariti@gmail.com for work/collabs
 
 <!---
 marco2697/marco2697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
